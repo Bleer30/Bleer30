@@ -1,14 +1,6 @@
 
 <h3 align="center">Hey there, I'm Bleer</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 
----
-
-<p align="center">
-<a href="#"><img src="https://i.postimg.cc/Ghssyc4b/3090ti.png" height="100%" width="100%" /></a>
-</p>
-
----
-
 I am a systems engineer passionate about technology and specialized in programming. I have one year of experience developing software applications and systems. I love learning and experimenting with new technologies and tools, and I am always looking for ways to improve my ability to solve problems and create innovative solutions.
 
 ---
