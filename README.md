@@ -11,7 +11,7 @@ I am a systems engineer passionate about technology and specialized in programmi
 ---
 
 ### Most used languages
-![Bleer's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bleer30&theme=react&layout=compact&hide=HTML)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bleer30&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
