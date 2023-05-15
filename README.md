@@ -6,7 +6,7 @@ I am a systems engineer passionate about technology and specialized in programmi
 ---
 
 ### Stats
-[![Bleer's stats](https://github-readme-stats.vercel.app/api?username=Bleer30&show_icons=true&theme=react)](https://github.com/Bleer30/github-readme-stats)
+![Bleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bleer30&hide=contribs,prs)
 
 ---
 
