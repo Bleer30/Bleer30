@@ -1,7 +1,5 @@
 <h1 align="center">Hey there, I'm <a href="https://portfolio-bleer.vercel.app/">Bleer</a> 👋 </h3>
 
-<img src="https://i.imgur.com/weNbhGZ.png">
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 I am a systems engineer passionate about technology and specialized in programming. I have one year of experience developing software applications and systems. I love learning and experimenting with new technologies and tools, and I am always looking for ways to improve my ability to solve problems and create innovative solutions.
@@ -13,12 +11,12 @@ I am a systems engineer passionate about technology and specialized in programmi
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<div align="center">
 <a href="https://github.com/Bleer30">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bleer30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleer30&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
