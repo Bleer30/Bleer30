@@ -12,17 +12,17 @@ I am a systems engineer passionate about technology and specialized in programmi
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/Bleer30">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bleer30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleer30&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<!--### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bleer-rodr%C3%ADguez-bola%C3%B1os-069278201/"><img src="https://img.shields.io/badge/-Bleer%20Rodriguez%20Bolaños-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/-stif2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/StifRodriguez"><img src="https://img.shields.io/badge/-@StifRodriguez-1877F2?style=flat&logo=X&logoColor=white"/></a>
- </p> -->
+ </p>
