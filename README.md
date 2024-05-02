@@ -1,5 +1,6 @@
+<h1 align="center">Hey there, I'm <a href="https://portfolio-bleer.vercel.app/">Bleer</a> 👋 </h3>
 
-<h1 align="center">Hey there, I'm <a href="https://portfolio-bleer.vercel.app/">Bleer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h3>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -12,7 +13,7 @@ I am a systems engineer passionate about technology and specialized in programmi
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p>
+<p align="center">
 <a href="https://github.com/Bleer30">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bleer30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleer30&layout=compact&langs_count=8&theme=algolia"/>
